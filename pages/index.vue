@@ -68,7 +68,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nuxt GitHub
+            I love nuxt JS
           </a>
         </v-card-text>
         <v-card-actions>
